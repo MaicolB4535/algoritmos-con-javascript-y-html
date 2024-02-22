@@ -1,0 +1,43 @@
+body{
+    background: url("../img/alexandre-lallemand-UtPC_kz8CAc-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#cont-algoritmos{
+    width: 80%;
+    margin: 120px auto;
+    border: 120px solid palevioletred;
+    text-align: center;
+    padding: 30px;
+
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+}
+p{
+    color: blueviolet;
+}
+button{
+    padding: 10px 20px;
+    border: 2px solid #ffff;
+    margin:20px ;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+ button:hover{
+    background: green;
+    
+ }
